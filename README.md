@@ -1,14 +1,9 @@
-# profile
-<!--타이틀 부분-->
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&customColorList=0,2,2,5,30&text=%EA%B0%9C%EB%B0%9C%EC%9E%90%20JIHO%EC%9E%85%EB%8B%88%EB%8B%A4!&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=55)
+
 <div align="center">
-  <div style="background: linear-gradient(135deg, #6A5ACD, #FF6B6B); border-radius: 20px; padding: 20px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
-    <h1 align="center" style="font-size: 48px; background: linear-gradient(to right, #fff, #f0f0f0); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 3px 3px 6px rgba(0,0,0,0.2); letter-spacing: 2px; margin: 10px 0;">
-      개발자 JIHO입니다!
-    </h1>
-    <p style="font-size: 18px; color: #fff; font-weight: bold; margin-top: 10px; text-shadow: 1px 1px 2px rgba(0,0,0,0.2);">
-      <span style="background: linear-gradient(to right, #00FFFF, #00BFFF); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; text-shadow: none;">프론트엔드</span> 개발과 <span style="background: linear-gradient(to right, #7FFF00, #32CD32); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold; text-shadow: none;">블록체인</span>에 관심이 많은 개발자입니다.
-    </p>
-  </div>
+  <p style="font-size: 18px; font-weight: bold; margin-top: 10px;">
+    <span style="color: #00BFFF;">프론트엔드</span> 개발과 <span style="color: #32CD32;">블록체인</span>에 관심이 많은 개발자입니다.
+  </p>
 </div>
 
 <!--내용 부분-->
