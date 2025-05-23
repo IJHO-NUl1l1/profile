@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=0,2,2,5,30&text=%EA%B0%9C%EB%B0%9C%EC%9E%90%20JIHO%EC%9E%85%EB%8B%88%EB%8B%A4!&animation=fadeIn&fontColor=ffffff&fontSize=42&fontAl)
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=0,2,2,5,30&text=%EA%B0%9C%EB%B0%9C%EC%9E%90%20JIHO%EC%9E%85%EB%8B%88%EB%8B%A4!&animation=fadeIn&fontColor=ffffff&fontSize=42&fontAlignY=45&desc=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%20%26%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%EC%97%90%20%EA%B4%80%EC%8B%AC%EC%9D%B4%20%EB%A7%8E%EC%9D%80%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4.&descSize=14&descAlign=60&descAlignY=70">
+</p>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
